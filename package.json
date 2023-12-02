@@ -4,7 +4,11 @@
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
-    "url": "https://github.com/fzdwx/launcher-native"
+    "url": "git+https://github.com/fzdwx/launcher-native.git"
+  },
+  "author": {
+    "name": "fzdwx",
+    "email": "likelovec@gmail.com"
   },
   "napi": {
     "name": "launcher-native",
@@ -30,5 +34,10 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.0.2"
+  "packageManager": "yarn@4.0.2",
+  "optionalDependencies": {
+    "launcher-native-win32-x64-msvc": "0.0.5",
+    "launcher-native-darwin-x64": "0.0.5",
+    "launcher-native-linux-x64-gnu": "0.0.5"
+  }
 }
