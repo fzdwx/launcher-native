@@ -34,10 +34,5 @@
     "universal": "napi universal",
     "version": "napi version"
   },
-  "packageManager": "yarn@4.0.2",
-  "optionalDependencies": {
-    "launcher-native-win32-x64-msvc": "0.0.5",
-    "launcher-native-darwin-x64": "0.0.5",
-    "launcher-native-linux-x64-gnu": "0.0.5"
-  }
+  "packageManager": "yarn@4.0.2"
 }
