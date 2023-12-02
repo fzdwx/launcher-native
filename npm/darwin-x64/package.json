@@ -1,6 +1,13 @@
 {
   "name": "launcher-native-darwin-x64",
   "version": "0.0.7",
+  "repository": {
+    "url": "git+https://github.com/fzdwx/launcher-native.git"
+  },
+  "author": {
+    "name": "fzdwx",
+    "email": "likelovec@gmail.com"
+  },
   "os": [
     "darwin"
   ],

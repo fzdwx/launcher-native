@@ -1,6 +1,13 @@
 {
   "name": "launcher-native-win32-x64-msvc",
   "version": "0.0.7",
+  "repository": {
+    "url": "git+https://github.com/fzdwx/launcher-native.git"
+  },
+  "author": {
+    "name": "fzdwx",
+    "email": "likelovec@gmail.com"
+  },
   "os": [
     "win32"
   ],
