@@ -3,6 +3,9 @@
   "version": "0.0.4",
   "main": "index.js",
   "types": "index.d.ts",
+  "repository": {
+    "url": "https://github.com/fzdwx/launcher-native"
+  },
   "napi": {
     "name": "launcher-native",
     "triples": {}
